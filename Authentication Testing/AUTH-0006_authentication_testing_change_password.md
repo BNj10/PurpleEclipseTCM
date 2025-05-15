@@ -1,4 +1,4 @@
-## **AUTH-0007:** Authentication testing - Change Password  
+## **AUTH-0006:** Authentication testing - Change Password  
 
 > **Summary:** Verify user can change password.  <br>
 

@@ -1,4 +1,4 @@
-## **AUTH-0006:** Authentication testing - Verify Email  
+## **AUTH-0005:** Authentication testing - Verify Email  
 
 > **Summary:** Verify user can verify account through email.  <br>
 

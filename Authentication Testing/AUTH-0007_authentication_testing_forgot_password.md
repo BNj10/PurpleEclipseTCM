@@ -1,4 +1,4 @@
-## **AUTH-0008:** Authentication testing - Forgot Password  
+## **AUTH-0007:** Authentication testing - Forgot Password  
 
 > **Summary:** Verify user can recover lost account.  <br>
 
