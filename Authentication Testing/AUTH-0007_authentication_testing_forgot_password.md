@@ -16,7 +16,7 @@ Scenario 1
  |  6 |   Wait for response.                                     | Verify that an email request is received.| 
  |  7 |   Click `Reset Password` text link on email              | Verify that it will redirect you to the platform showing a update password overlay. | 
  |  8 |   Fill up the textboxes with new and secure password.    | Verify that the textbox’s value is the same as the secure password. |
- |  9 |   Click the `Update Password` button.                    | Verify that an email request is received.|  
+ |  9 |   Click the `Update Password` button.                    | Verify that the user will be redirected to the homepage.|  
 
 **Post-conditions:** 
 The account password is updated successfully.	
