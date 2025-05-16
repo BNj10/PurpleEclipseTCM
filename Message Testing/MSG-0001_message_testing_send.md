@@ -2,7 +2,7 @@
 
 > **Summary:** Verify that user can send a message to another user  <br>
 
-**Preconditions:** _None_  
+**Preconditions:** The user should be logged in.  
 
 Scenario 1 
 
