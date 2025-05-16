@@ -9,7 +9,7 @@ Scenario 1
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
  |  1 |   Visit the homepage.                                           | Verify that the homepage is shown.  | 
- |  2 |   Click Forums on the navigation bar.                           | Verify that forum list is displayed.   | 
+ |  2 |   Click `Forums` button on the navigation bar.                           | Verify that forum list is displayed.   | 
  |  3 |   Click the `Add Forum` button.                                 | Verify that add new forum overlay is shown.   |  
  |  4 |   Set the forum name textbox to "FOC"                          | Verify that the forum name textbox value is “FOC”.   |  
  |  5 |   Set the description name textbox to “Faculty of Computing"   | Verify that the description name textbox value is “Faculty of Computing”.   |  
