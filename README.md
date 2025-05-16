@@ -10,7 +10,7 @@
    * [AUTH-0002: Authentication testing - Login with Email and Password](<./Authentication Testing/AUTH-0002_authentication_testing_login_with_email_and_password.md>)  
    * [AUTH-0003: Authentication testing - Login with Username and Password](<./Authentication Testing/AUTH-0003_authentication_testing_login_with_username_and_password.md>)  
    * [AUTH-0004: Authentication testing - Signup with Google](<./Authentication Testing/AUTH-0004_authentication_testing_signup_with_google.md>)  
-   * [AUTH-0005: Authentication testing - Verify Email](<./Authentication Testing/AUTH-0005_authentication_testing_verify_email.md>)  
+   * [AUTH-0005: Authentication testing - Login with Google](<./Authentication Testing/AUTH-0005_authentication_testing_login_with_Google.md>)  
    * [AUTH-0006: Authentication testing - Change Password](<./Authentication Testing/AUTH-0006_authentication_testing_change_password.md>)  
    * [AUTH-0007: Authentication testing - Forgot Password](<./Authentication Testing/AUTH-0007_authentication_testing_forgot_password.md>)  
  * [Notification Testing](<./Notification Testing>)  
