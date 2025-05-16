@@ -2,18 +2,19 @@
 
 > **Summary:** Verify that user can receive a message from another user.  <br>
 
-**Preconditions:** The user should be logged in.  
+**Preconditions:** 
+1. The user should be logged in. 
+2. Another user sent a message to this user.
+ 
 
 Scenario 1 
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
  |  1 |   Visit the homepage.                             | Verify that the homepage is shown.   | 
- |  2 |   Click the `Message` icon in the navigation bar    | Verify that the message UI appears.   | 
- |  3 |   Click an existing message                       | Verify that the conversation is opened.   | 
- |  4 |   Type a message on the chatbox                   | Verify that it displays the input correctly.  | 
- |  5 |   Click the `Send` button                           | Verify that message is sent successfully and displayed on the UI realtime. |  
+ |  2 |  Click the message icon in the navigation bar.    | Verify that the message UI appears.   |  
+ |  3 |   Click the message                               | Verify that the conversation is opened.   | 
 
 **Post-conditions:**  
-The message is sent successfully to the intended recipient.
+The new message is received and displayed properly
 
