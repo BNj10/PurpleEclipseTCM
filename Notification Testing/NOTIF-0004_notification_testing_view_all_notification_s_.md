@@ -2,18 +2,16 @@
 
 > **Summary:** Verify that all the notifications are read.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:** The user should be logged in.
 
 Scenario 1 
 
+
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+ |  1 |   Visit the homepage.                                         | Verify that the homepage is shown.  | 
+ |  2 |   Click the `Notification` icon button.                       | Verify that the notifications are displayed properly starting from the most recent. | 
+ |  3 |   Click `View all notifications` text button. | Verify that all the notifications are read successfully. |  
 
 **Post-conditions:**  
-
- - x  
- - y  
- - z  
+The notifications are red and not highlighted.
