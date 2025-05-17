@@ -14,4 +14,4 @@ Scenario 1
  |  4 |   Input a username that is random.                      | Verify that it displays `No users found`   |  
 
 **Post-conditions:**  
-The user successfully creates a new conversation.
+None
