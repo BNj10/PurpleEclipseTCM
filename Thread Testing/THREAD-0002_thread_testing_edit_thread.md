@@ -14,7 +14,7 @@ Scenario 1
  |  3 |  Click `Profile` button. | Verify that the profile page is shown. |  
  |  4 | On the threads you’ve created, click the `Edit` button. | Verify that `Edit thread` form is shown. |  
  |  5 |   Set new values in the textfields| Verify that the new values are reflected on the form |  
- |  6 |   Click `Save Changes` button | Verify that the toast notification is shown. |  
+ |  6 |   Click `Save Changes` button | Verify that the `toast notification` is shown. |  
 
 
 **Post-conditions:**  
