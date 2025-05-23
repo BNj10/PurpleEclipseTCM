@@ -4,7 +4,11 @@
 
 ## Test Cases  
 
-
+* [Admin Testing](<./Admin Testing>)  
+   * [ADM-0001: Admin testing - Ban user](<./Admin Testing/ADM-0001_admin_testing_ban_user.md>)  
+   * [ADM-0002: Admin testing - Restrict user](<./Admin Testing/ADM-0002_admin_testing_restrict_user.md>)  
+   * [ADM-0003: Admin testing - Unban user](<./Admin Testing/ADM-0003_admin_testing_unban_user.md>)  
+   * [ADM-0004: Admin testing - Unrestrict user](<./Admin Testing/ADM-0004_admin_testing_unrestrict_user.md>)  
  * [Authentication Testing](<./Authentication Testing>)  
    * [AUTH-0001: Authentication testing - Sign Up with Email/Username/Password](<./Authentication Testing/AUTH-0001_authentication_testing_sign_up_with_email_username_password.md>)  
    * [AUTH-0002: Authentication testing - Login with Email and Password](<./Authentication Testing/AUTH-0002_authentication_testing_login_with_email_and_password.md>)  
