@@ -1,6 +1,6 @@
 ## **ADM-0001:** Admin testing - Ban user
 
-> **Summary:** Verify that an admin can ban a user. <br>
+> **Summary:** Verify that an admin can unban a user. <br>
 
 **Preconditions:**
 <br/>User must be an admin. <br/>
